@@ -22,7 +22,7 @@ Yelpy App is a clone that displays in this case Restaurants from around Altadena
 ### App Walkthrough GIF
 
 
-<img src="https://imgur.com/DdGhOq2.gif" width=250><br>
+<img src="https://imgur.com/axqkqnv.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.

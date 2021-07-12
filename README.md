@@ -15,9 +15,6 @@ Yelpy App is a clone that displays in this case Restaurants from around Altadena
 - [ x ] (5pts) User sees a list of restaurants in the area with their names and pictures
 - [ x ] (5pts) User can scroll down a list of these items
 
-#### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
 
